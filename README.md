@@ -12,38 +12,6 @@ Instead of manually selecting and sending photos to each person, the system uses
 
 The platform combines Flutter mobile development, FastAPI backend services, MongoDB Atlas cloud database, and computer vision technologies to create a seamless photo-sharing experience.
 
-## 📸 Application Screenshots
-
-### Landing Page
-![Landing](screenshots/Screenshot%202026-06-07%20205622.png)
-
-### Login Page
-![Login](screenshots/Screenshot%202026-06-07%20205645.png)
-
-### Registration Page
-![Register](screenshots/Screenshot%202026-06-07%20205702.png)
-
-### Dashboard
-![Dashboard](screenshots/Screenshot%202026-06-07%20211836.png)
-
-### Dashboard – Quick Actions
-![Dashboard Quick Actions](screenshots/Screenshot%202026-06-07%20211851.png)
-
-### Contacts Management
-![Contacts](screenshots/Screenshot%202026-06-07%20211907.png)
-
-### AI Face Scan
-![Scan](screenshots/Screenshot%202026-06-07%20211922.png)
-
-### Delivery History
-![History](screenshots/Screenshot%202026-06-07%20211938.png)
-
-### Profile
-![Profile](screenshots/Screenshot%202026-06-07%20211955.png)
-
-### Profile Settings & Logout
-![Profile Logout](screenshots/Screenshot%202026-06-07%20212008.png)
-
 ---
 
 ## Problem Statement
@@ -76,6 +44,37 @@ SnapShareAI solves this problem by automating photo identification and delivery 
 * Modern Mobile User Interface
 
 ---
+## 📸 Application Screenshots
+
+### Landing Page
+![Landing](screenshots/Screenshot%202026-06-07%20205622.png)
+
+### Login Page
+![Login](screenshots/Screenshot%202026-06-07%20205645.png)
+
+### Registration Page
+![Register](screenshots/Screenshot%202026-06-07%20205702.png)
+
+### Dashboard
+![Dashboard](screenshots/Screenshot%202026-06-07%20211836.png)
+
+### Dashboard – Quick Actions
+![Dashboard Quick Actions](screenshots/Screenshot%202026-06-07%20211851.png)
+
+### Contacts Management
+![Contacts](screenshots/Screenshot%202026-06-07%20211907.png)
+
+### AI Face Scan
+![Scan](screenshots/Screenshot%202026-06-07%20211922.png)
+
+### Delivery History
+![History](screenshots/Screenshot%202026-06-07%20211938.png)
+
+### Profile
+![Profile](screenshots/Screenshot%202026-06-07%20211955.png)
+
+### Profile Settings & Logout
+![Profile Logout](screenshots/Screenshot%202026-06-07%20212008.png)
 
 ## System Architecture
 
